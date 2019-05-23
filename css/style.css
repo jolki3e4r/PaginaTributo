@@ -1,0 +1,103 @@
+body {
+   background-image: url("https://farm8.staticflickr.com/7860/32378383717_30b9fffe53_b.jpg");
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+    background-repeat: repeat;
+    text-align:center;
+    min-width:260px;
+    margin: 0;
+	  padding: 0;
+  
+}
+
+@font-face {
+font-family: 'Rubik', sans-serif;
+src:url('https://fonts.googleapis.com/css?family=Rubik:400,900')
+}
+
+#main { 
+  border:0px solid 0;
+}
+
+#title {
+  margin:20px auto;
+  padding:10px;
+  border:0px solid;
+  height: auto;
+  margin:20px auto;
+  font-size: 4.5em;
+  text-align:center;
+  font-family: 'Rubik', sans-serif;
+  color:RGB(0, 128, 128);
+  text-shadow: 5px 2px 4px grey;
+
+}
+#textitulo {
+  font-family: 'Rubik', sans-serif;
+  color:RGB(0, 128, 128);
+  text-shadow: 5px 2px 4px grey;
+}
+
+#textitulo {
+  margin:0px auto;
+  font-size: 1.5em;
+  text-align:center;
+  padding:0px;
+}
+
+#image {
+  margin-top:20px;
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+  border-radius:3%;
+}
+
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid white;
+  background-color: rgba(238, 238, 238, 0.7);
+
+}
+
+#img-caption{
+  margin:5px auto 20px auto;
+  text-align:center;
+ }
+
+#tribute-info{
+  margin: 10px;
+  background-color: rgba(238, 238, 238, 0.7);
+}
+
+#headline{
+  margin-top:50px;
+  text-align:center;
+  padding:20px;
+}
+
+ul{
+ 
+  margin:0 auto;
+  text-align:left;
+ }
+
+li{
+  margin: 13px;
+}
+
+blockquote{
+  font-style: italic;
+  padding:20px;
+ }
+a:link {
+   text-decoration: none;
+}
+a:hover {
+   color:RGB(0, 128, 128);
+}
+a:visited {
+  rgb(51, 102, 255);
+}
